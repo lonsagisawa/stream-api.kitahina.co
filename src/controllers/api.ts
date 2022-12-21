@@ -1,4 +1,4 @@
-import { ShinyColors } from "../model/ShinyColors.ts";
+import ShinyColors from "../model/ShinyColors.ts";
 import { Album } from "../types/Album.ts";
 
 const findAlbum = (albumId: string): Album | undefined =>
