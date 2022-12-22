@@ -7,7 +7,7 @@ const ColorfulFeathers: Array<Album> = [
   {
     id: "laca-15863",
     name: "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Sol-",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACA-15863.jpg",
     spotify: "6gEqUT48U8C9GK6QhpoJeG",
@@ -21,7 +21,7 @@ const SyntheSide: Array<Album> = [
   {
     id: "lacm-24244",
     name: "THE IDOLM@STER SHINY COLORS Synthe-Side 01",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24244.jpg",
     spotify: "2AtVxlrMgKVDsrqA6onKYJ",
@@ -31,7 +31,7 @@ const SyntheSide: Array<Album> = [
   {
     id: "lacm-24245",
     name: "THE IDOLM@STER SHINY COLORS Synthe-Side 02",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24245.jpg",
     spotify: "7rg9RfJGUbH8aLeqHLGBst",
@@ -41,7 +41,7 @@ const SyntheSide: Array<Album> = [
   {
     id: "lacm-24246",
     name: "THE IDOLM@STER SHINY COLORS Synthe-Side 03",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2022/01/LACM-24246.jpg",
     spotify: "5VWEYE7ttilS4rRwoDk6HS",
@@ -55,7 +55,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24251",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 01",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24251.jpeg",
     spotify: "2nINsRjHFbz5oWMG4zJo2i",
@@ -65,7 +65,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24252",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 02",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24252.jpg",
     spotify: "4CSSUlAhyx3mbZmwRLSMQj",
@@ -75,7 +75,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24253",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 03",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24253.jpg",
     spotify: "1amhjTEry84P4TaaXupGGl",
@@ -85,7 +85,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24254",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 04",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24254.jpg",
     spotify: "5vFeizkVQA7PqDIuSr4cH6",
@@ -95,7 +95,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24255",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 05",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24255.jpg",
     spotify: "3UigZQb1RxyalZQMokQdNV",
@@ -105,7 +105,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24256",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 06",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24256.jpg",
     spotify: "40jerhrEfhhYjWUh9AA4EU",
@@ -115,7 +115,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24257",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 07",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24257.jpg",
     spotify: "4WwTB9xJxqOqAS6kmMyqtz",
@@ -125,7 +125,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24258",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 08",
-    isAvailable: true,
+    series: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24258.jpg",
     spotify: "4fifEAU2mSmSaEXKccsjRF",
