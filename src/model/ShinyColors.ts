@@ -2,6 +2,20 @@ import { Album } from "../types/Album.ts";
 
 const Albums: Array<Album> = [];
 
+const ColorfulFeathers: Array<Album> = [
+  /* COLORFUL FE@THERS */
+  {
+    id: "laca-15863",
+    name: "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Sol-",
+    isAvailable: true,
+    cover:
+      "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACA-15863.jpg",
+    spotify: "6gEqUT48U8C9GK6QhpoJeG",
+    applemusic: "1655619000",
+    amazon: "B0BNGR7TXB",
+  },
+];
+
 const SyntheSide: Array<Album> = [
   /* Synthe-Side / 2021 */
   {
@@ -120,6 +134,10 @@ const PanoramaWing: Array<Album> = [
   },
 ];
 
-const ShinyColors: Array<Album> = Albums.concat(SyntheSide, PanoramaWing);
+const ShinyColors: Array<Album> = Albums.concat(
+  ColorfulFeathers,
+  SyntheSide,
+  PanoramaWing,
+);
 
 export default ShinyColors;
