@@ -4,7 +4,9 @@ import { getAlbum, getAlbums } from "./src/controllers/api.ts";
 
 const app = new Hono();
 
-app.get("/", (c) => c.text("Hello! Hono!"));
+app.get("/", (c) => {
+  return c.redirect("https://github.com/lonsagisawa/stream-api.kitahina.co");
+});
 app.get("/album", (c) => {
   return c.json(getAlbums());
 });
