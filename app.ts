@@ -1,21 +1,16 @@
-import { Application, Router } from "https://deno.land/x/oak/mod.ts";
+import { serve } from "https://deno.land/std/http/server.ts";
+import { Hono } from "https://deno.land/x/hono/mod.ts";
 import { getAlbum, getAlbums } from "./src/controllers/api.ts";
 
-const router = new Router();
-const port = 3000;
+const app = new Hono();
 
-router
-  .get("/album", getAlbums)
-  .get("/album/:id", getAlbum)
-  .get("/", (context) => {
-    context.response.body = "stream-api.kitahina.co";
-  });
+app.get("/", (c) => c.text("Hello! Hono!"));
+app.get("/album", (c) => {
+  return c.json(getAlbums());
+});
+app.get("/album/:id", (c) => {
+  const id = c.req.param("id");
+  return c.json(getAlbum(id));
+});
 
-const app = new Application();
-
-app.use(router.routes());
-app.use(router.allowedMethods());
-
-console.log(`Listening on port ${port}...`);
-
-await app.listen({ port });
+serve(app.fetch);
