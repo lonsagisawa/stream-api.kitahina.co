@@ -5,7 +5,7 @@ const findAlbum = (albumId: string): Album | undefined => {
   return ShinyColors.find(({ id }) => id === albumId);
 };
 
-const isMissing = (value: any) => {
+const isMissing = (value: Album | undefined) => {
   return value === null || value === undefined;
 };
 
