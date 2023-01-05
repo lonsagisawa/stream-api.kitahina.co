@@ -3,6 +3,7 @@ import { Hono } from "https://deno.land/x/hono@v2.7.1/mod.ts";
 import {
   getAlbum,
   getAllAlbums,
+  getAllStarsAlbums,
   getShinyColorsAlbums,
 } from "./src/controllers/api.ts";
 
@@ -13,6 +14,9 @@ app.get("/", (c) => {
 });
 app.get("/album", (c) => {
   return c.json(getAllAlbums());
+});
+app.get("/album/allstars", (c) => {
+  return c.json(getAllStarsAlbums());
 });
 app.get("/album/shinycolors", (c) => {
   return c.json(getShinyColorsAlbums());
