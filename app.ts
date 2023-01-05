@@ -1,6 +1,10 @@
 import { serve } from "https://deno.land/std@0.170.0/http/server.ts";
 import { Hono } from "https://deno.land/x/hono@v2.7.1/mod.ts";
-import { getAlbum, getAlbums } from "./src/controllers/api.ts";
+import {
+  getAlbum,
+  getAllAlbums,
+  getShinyColorsAlbums,
+} from "./src/controllers/api.ts";
 
 const app = new Hono();
 
@@ -8,7 +12,10 @@ app.get("/", (c) => {
   return c.redirect("https://github.com/lonsagisawa/stream-api.kitahina.co");
 });
 app.get("/album", (c) => {
-  return c.json(getAlbums());
+  return c.json(getAllAlbums());
+});
+app.get("/album/shinycolors", (c) => {
+  return c.json(getShinyColorsAlbums());
 });
 app.get("/album/:id", (c) => {
   const id = c.req.param("id");
