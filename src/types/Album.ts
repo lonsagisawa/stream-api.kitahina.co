@@ -3,7 +3,7 @@ export type Album = {
   name: string;
   series: string;
   cover: string;
-  spotify: string;
-  applemusic: string;
-  amazon: string;
+  spotify?: string;
+  applemusic?: string;
+  amazon?: string;
 };

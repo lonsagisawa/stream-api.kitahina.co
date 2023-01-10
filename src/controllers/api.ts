@@ -1,9 +1,14 @@
 import AllStars from "../model/AllStars.ts";
 import ShinyColors from "../model/ShinyColors.ts";
+import MillionLive from "../model/MillionLive.ts";
 import { Album } from "../types/Album.ts";
 
 const albums: Array<Album> = [];
-const allAlbums: Array<Album> = albums.concat(AllStars, ShinyColors);
+const allAlbums: Array<Album> = albums.concat(
+  AllStars,
+  MillionLive,
+  ShinyColors,
+);
 
 const findAlbum = (albumId: string): Album | undefined => {
   return allAlbums.find(({ id }) => id === albumId);
@@ -15,6 +20,10 @@ const isMissing = (value: Album | undefined) => {
 
 export const getAllStarsAlbums = () => {
   return { msg: "Data fetched.", data: AllStars };
+};
+
+export const getMillionLiveAlbums = () => {
+  return { msg: "Data fetched.", data: MillionLive };
 };
 
 export const getShinyColorsAlbums = () => {
