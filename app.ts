@@ -4,6 +4,7 @@ import {
   getAlbum,
   getAllAlbums,
   getAllStarsAlbums,
+  getMillionLiveAlbums,
   getShinyColorsAlbums,
 } from "./src/controllers/api.ts";
 
@@ -17,6 +18,9 @@ app.get("/album", (c) => {
 });
 app.get("/album/allstars", (c) => {
   return c.json(getAllStarsAlbums());
+});
+app.get("/album/millionlive", (c) => {
+  return c.json(getMillionLiveAlbums());
 });
 app.get("/album/shinycolors", (c) => {
   return c.json(getShinyColorsAlbums());
