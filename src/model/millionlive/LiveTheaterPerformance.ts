@@ -1,6 +1,6 @@
 import { Album } from "../../types/Album.ts";
 
-const MillionTheaterPerformance: Array<Album> = [
+const LiveTheaterPerformance: Array<Album> = [
   {
     id: "lacm-14080",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 01 Thank You!",
@@ -120,4 +120,4 @@ const MillionTheaterPerformance: Array<Album> = [
   },
 ];
 
-export default MillionTheaterPerformance;
+export default LiveTheaterPerformance;
