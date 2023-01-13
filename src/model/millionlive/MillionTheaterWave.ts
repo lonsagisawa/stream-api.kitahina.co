@@ -8,7 +8,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW01_H1.jpg",
     spotify: "3XMVnavGGMGhtKL5kX9wSq",
     applemusic: undefined,
-    amazon: undefined,
+    amazon: "B0BP721ZTT",
   },
   {
     id: "lacm-14892",
@@ -17,7 +17,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW02_H1.jpg",
     spotify: "0n1EdkiGkULdbdAbcj3FI3",
     applemusic: "1658222656",
-    amazon: undefined,
+    amazon: "B0BP6FSQV8",
   },
   {
     id: "lacm-14893",
@@ -26,7 +26,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW03_H1.jpg",
     spotify: "6bRm5kHYUxrQIsLhVUn5oX",
     applemusic: "1658222337",
-    amazon: undefined,
+    amazon: "B0BP68DNLF",
   },
   {
     id: "lacm-14894",
@@ -35,7 +35,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW04_H1.jpg",
     spotify: "5XJU5PcncxC8kuLr0uZ35w",
     applemusic: "1658221508",
-    amazon: undefined,
+    amazon: "B0BP65X211",
   },
   {
     id: "lacm-14895",
@@ -44,7 +44,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW05_H1.jpg",
     spotify: "6dPf4D4ahsUrXfXacWhKNu",
     applemusic: "1660061660",
-    amazon: undefined,
+    amazon: "B0BP62SZXZ",
   },
   {
     id: "lacm-14896",
@@ -53,7 +53,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW06_H1.jpg",
     spotify: "4to4QXWpdanY8GmKkcKX8H",
     applemusic: "1658224005",
-    amazon: undefined,
+    amazon: "B0BP6C8RD6",
   },
   {
     id: "lacm-14897",
@@ -62,7 +62,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW07_H1.jpg",
     spotify: "7mihuPl9XKNe5EbrWmf9Gs",
     applemusic: "1658224353",
-    amazon: undefined,
+    amazon: "B0BP6HHNB5",
   },
   {
     id: "lacm-14898",
@@ -80,7 +80,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW09_H1.jpg",
     spotify: "5dRsYjOUip5UV88wKPAuGJ",
     applemusic: "1658261696",
-    amazon: undefined,
+    amazon: "B0BP7JNN76",
   },
   {
     id: "lacm-14900",
@@ -89,7 +89,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW10_H1.jpg",
     spotify: "0i8lhN2S9zPhErVX2LXhc0",
     applemusic: "1658262664",
-    amazon: undefined,
+    amazon: "B0BP7GXTMV",
   },
   {
     id: "lacm-14901",
@@ -98,7 +98,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW11_H1.jpg",
     spotify: "2SSr71xZDj52IgJ3zacjfx",
     applemusic: "1658265137",
-    amazon: undefined,
+    amazon: "B0BP7NJKXT",
   },
   {
     id: "lacm-14902",
@@ -107,7 +107,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW12_H1.jpg",
     spotify: "6raoTree2kzuHvxAfcjkNt",
     applemusic: "1658269690",
-    amazon: undefined,
+    amazon: "B0BP7QHZBQ",
   },
   {
     id: "lacm-14903",
@@ -116,7 +116,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW13_H1.jpg",
     spotify: "5ug6ELg787KuXMs1Z5gthX",
     applemusic: "1658270176",
-    amazon: undefined,
+    amazon: "B0BP7N7BVC",
   },
   {
     id: "lacm-14904",
@@ -134,7 +134,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW15_H1.jpg",
     spotify: "2EQQNrat2zwQMfwD67OycQ",
     applemusic: "1658341292",
-    amazon: undefined,
+    amazon: "B0BP8C7TDC",
   },
   {
     id: "lacm-24106",
@@ -143,7 +143,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW16_H1.jpg",
     spotify: "5HGLbVSNqj9HQHGGYe39No",
     applemusic: "1658261376",
-    amazon: undefined,
+    amazon: "B0BP7JZV59",
   },
   {
     id: "lacm-24107",
@@ -152,7 +152,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW17_H1.jpg",
     spotify: "6SYVfAsmO3ctaLBZbMlEhs",
     applemusic: "1658262860",
-    amazon: undefined,
+    amazon: "B0BP7GYQBX",
   },
   {
     id: "lacm-24108",
@@ -161,7 +161,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW18_H1.jpg",
     spotify: "2h7qFCIuwpnamJlTOgS7CU",
     applemusic: "1658341924",
-    amazon: undefined,
+    amazon: "B0BP94HTTS",
   },
 ];
 
