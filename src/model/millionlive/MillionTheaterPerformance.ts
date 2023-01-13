@@ -6,7 +6,7 @@ const MillionTheaterPerformance: Array<Album> = [
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 01 Thank You!",
     series: "millionlive",
     cover: "https://www.lantis.jp/imas/img/release_imgs__0011s_0012_LTP01_H1.png",
-    spotify: "1u4OlClvfSusqtWsi5mxlJ",
+    spotify: "1aJ4lWupXN87GzGNa7jjMd",
     applemusic: "1658188099",
     amazon: "B0BP4XVG26",
   },
