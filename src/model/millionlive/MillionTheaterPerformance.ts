@@ -1,4 +1,4 @@
-import { Album } from "../../types/Album";
+import { Album } from "../../types/Album.ts";
 
 const MillionTheaterPerformance: Array<Album> = [
   {
@@ -119,3 +119,5 @@ const MillionTheaterPerformance: Array<Album> = [
     amazon: "B0BP6NHWL6",
   },
 ];
+
+export default MillionTheaterPerformance;
