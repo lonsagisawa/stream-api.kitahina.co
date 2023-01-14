@@ -75,7 +75,7 @@ const MasterSparkle2: Array<Album> = [
   },
   {
     id: "laca-15909",
-    name: "THE ID9LM@STER MILLION LIVE! M@STER SPARKLE2 09",
+    name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
     series: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15909_H1.jpg",
     spotify: "5BlRVFC9TliHQRWVAmnBjx",
