@@ -30,7 +30,7 @@ const MillionTheaterGeneration: Array<Album> = [
   },
   {
     id: "lacm-14634",
-    name: "THE IDOLM@STER MILLION THE@TER GENERATION 04",
+    name: "THE IDOLM@STER MILLION THE@TER GENERATION 04 プリンセススターズ",
     series: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG04_H1.jpg",
     spotify: "6k4Ee74mBhYsamQQ3iuumR",
