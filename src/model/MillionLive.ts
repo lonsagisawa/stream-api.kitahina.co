@@ -4,6 +4,7 @@ import LiveTheaterPerformance from "./millionlive/LiveTheaterPerformance.ts";
 import MillionTheaterWave from "./millionlive/MillionTheaterWave.ts";
 import MasterSparkle2 from "./millionlive/MasterSparkle2.ts";
 import MillionTheaterGeneration from "./millionlive/MillionTheaterGeneration.ts";
+import MillionTheaterSeason from "./millionlive/MillionTheaterSeason.ts";
 
 const Albums: Array<Album> = [];
 
@@ -12,6 +13,7 @@ const MillionLive: Array<Album> = Albums.concat(
   MillionRadio,
   MillionTheaterGeneration,
   MillionTheaterWave,
+  MillionTheaterSeason,
   MasterSparkle2,
 );
 
