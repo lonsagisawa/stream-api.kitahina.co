@@ -55,6 +55,15 @@ const MillionTheaterSeason: Array<Album> = [
     applemusic: "1658309763",
     amazon: "B0BP861ZJS",
   },
+  {
+    id: "yume_ni_kakeru_rainbow",
+    name: "夢にかけるRainbow (Brand New Ver.)",
+    series: "millionlive",
+    cover: "https://www.lantis.jp/imas/img/LACM-24294.jpg",
+    spotify: "7csKiLn2ZPQsUvQ2sPSvXc",
+    applemusic: "1639465771",
+    amazon: "B0B9HK1VX5",
+  },
 ];
 
 export default MillionTheaterSeason;
