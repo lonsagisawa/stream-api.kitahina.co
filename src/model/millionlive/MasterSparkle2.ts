@@ -26,7 +26,7 @@ const MasterSparkle2: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/LACA-15903_H1.jpg",
     spotify: "0x3A6Datf6hMIKYXZN6Kwp",
     applemusic: "1659905708",
-    amazon: undefined,
+    amazon: "B0BSGGKL27",
   },
   {
     id: "laca-15904",
