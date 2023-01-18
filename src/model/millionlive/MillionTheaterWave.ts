@@ -71,7 +71,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW08_H1.jpg",
     spotify: "1dOIaP2WYutQKZ8fWFaXi8",
     applemusic: "1658224826",
-    amazon: undefined,
+    amazon: "B0BS9ZLQXM",
   },
   {
     id: "lacm-14899",
@@ -125,7 +125,7 @@ const MillionTheaterWave: Array<Album> = [
     cover: "https://www.lantis.jp/imas/img/MTW14_H1.jpg",
     spotify: "54oac3e7RYyha5LkSKABsA",
     applemusic: "1658270027",
-    amazon: undefined,
+    amazon: "B0BP7QGLR5",
   },
   {
     id: "lacm-14905",
