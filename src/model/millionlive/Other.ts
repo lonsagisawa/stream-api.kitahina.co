@@ -47,6 +47,16 @@ const Other: Array<Album> = [
     applemusic: "1658305728",
     amazon: "B0BP83ZH6D",
   },
+  {
+    id: "clover_days",
+    name: "Clover Days",
+    series: "millionlive",
+    cover:
+      "https://m.media-amazon.com/images/I/61wWSIJ30QL._UX500_FMwebp_QL85_.jpg",
+    spotify: "1ulBx1CY8eGJ8EtmuLp1EU",
+    applemusic: "1658342716",
+    amazon: "B0BP8BHV7F",
+  },
 ];
 
 export default Other;
