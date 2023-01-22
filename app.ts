@@ -4,6 +4,7 @@ import {
   getAlbum,
   getAllAlbums,
   getAllStarsAlbums,
+  getFiveStarsAlbum,
   getMillionLiveAlbums,
   getShinyColorsAlbums,
 } from "./src/controllers/api.ts";
@@ -24,6 +25,9 @@ app.get("/album/millionlive", (c) => {
 });
 app.get("/album/shinycolors", (c) => {
   return c.json(getShinyColorsAlbums());
+});
+app.get("/album/fivestars", (c) => {
+  return c.json(getFiveStarsAlbum());
 });
 app.get("/album/:id", (c) => {
   const id = c.req.param("id");
