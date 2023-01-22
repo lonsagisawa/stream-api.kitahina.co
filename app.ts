@@ -1,5 +1,5 @@
-import { serve } from "https://deno.land/std@0.170.0/http/server.ts";
-import { Hono } from "https://deno.land/x/hono@v2.7.2/mod.ts";
+import { serve } from "https://deno.land/std@0.173.0/http/server.ts";
+import { Hono } from "https://deno.land/x/hono@v2.7.3/mod.ts";
 import {
   getAlbum,
   getAllAlbums,
