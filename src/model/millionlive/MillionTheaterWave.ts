@@ -7,7 +7,7 @@ const MillionTheaterWave: Array<Album> = [
     series: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW01_H1.jpg",
     spotify: "3XMVnavGGMGhtKL5kX9wSq",
-    applemusic: undefined,
+    applemusic: "1658222367",
     amazon: "B0BP721ZTT",
   },
   {
