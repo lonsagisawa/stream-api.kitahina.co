@@ -4,7 +4,7 @@ const LiveTheaterDreamers: Array<Album> = [
   {
     id: "lacm-14411",
     name: "THE IDOLM@STER LIVE THE@TER DREAMERS 01 Dreaming!",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0009s_0003_LTD01_H1_default.png",
     spotify: "20CyUwrWQCNa2Aa400fD8k",
@@ -14,7 +14,7 @@ const LiveTheaterDreamers: Array<Album> = [
   {
     id: "laca-15522",
     name: "THE IDOLM@STER LIVE THE@TER DREAMERS 02",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0009s_0002_LTD02_H1.png",
     spotify: "4rhPmXsnPfSpDACWZI2vjU",
@@ -24,7 +24,7 @@ const LiveTheaterDreamers: Array<Album> = [
   {
     id: "laca-15523",
     name: "THE IDOLM@STER LIVE THE@TER DREAMERS 03",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0009s_0006_LTD03_H1.png",
     spotify: "2DmRzqg7VMWUbVjNzLrHt0",
@@ -34,7 +34,7 @@ const LiveTheaterDreamers: Array<Album> = [
   {
     id: "laca-15524",
     name: "THE IDOLM@STER LIVE THE@TER DREAMERS 04",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0009s_0001_LTD04_H1.png",
     spotify: "6Mb1y1zYO6iaCNDe9TxAPg",
@@ -44,7 +44,7 @@ const LiveTheaterDreamers: Array<Album> = [
   {
     id: "laca-15525",
     name: "THE IDOLM@STER LIVE THE@TER DREAMERS 05",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0009s_0005_LTD05_H1.png",
     spotify: "1K4K7FKVGIAH1Bo2DD2mdr",
@@ -54,7 +54,7 @@ const LiveTheaterDreamers: Array<Album> = [
   {
     id: "laca-15526",
     name: "THE IDOLM@STER LIVE THE@TER DREAMERS 06",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0009s_0000_LTD06_H1.png",
     spotify: "2ZZRcVg8G2U1HWNw8PxFAP",

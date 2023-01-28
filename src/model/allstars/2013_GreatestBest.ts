@@ -6,7 +6,7 @@ const GreatestBest: Array<Album> = [
     id: "cocx-38070",
     name:
       "THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -THE IDOLM@STER HISTORY-",
-    series: "allstars",
+    brand: "allstars",
     cover: "https://columbia.jp/idolmaster/img/COCX-38070.jpg",
     spotify: "6OBOQTEmTgSYPrWDUwRjqw",
     applemusic: "1659357818",
@@ -15,7 +15,7 @@ const GreatestBest: Array<Album> = [
   {
     id: "cocx-38071",
     name: "THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -SWEET&SMILE!-",
-    series: "allstars",
+    brand: "allstars",
     cover: "https://columbia.jp/idolmaster/img/COCX-38071.jpg",
     spotify: "4Jb8W5mdfBaRXeYz6LVE6W",
     applemusic: "1659368274",
@@ -24,7 +24,7 @@ const GreatestBest: Array<Album> = [
   {
     id: "cocx-38073",
     name: "THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -COOL&BITTER!-",
-    series: "allstars",
+    brand: "allstars",
     cover: "https://columbia.jp/idolmaster/img/COCX-38073.jpg",
     spotify: "47Hkg8JBDUiaQq6vZKTM6U",
     applemusic: "1659369256",
@@ -33,7 +33,7 @@ const GreatestBest: Array<Album> = [
   {
     id: "cocx-38075",
     name: "THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -LOVE&PEACE!-",
-    series: "allstars",
+    brand: "allstars",
     cover: "https://columbia.jp/idolmaster/img/COCX-38075.jpg",
     spotify: "2EKu4FCPq2X52aRzaT3lHI",
     applemusic: "1659371784",

@@ -4,7 +4,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14631",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG01_H1_Full.jpg",
     spotify: "1Qf0OVZGtS3qhAYgUPabnW",
     applemusic: "1658285570",
@@ -13,7 +13,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14632",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 02 フェアリースターズ",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG02_H1.jpg",
     spotify: "5MpI371XgTIRpGTFSQQie6",
     applemusic: "1658832558",
@@ -22,7 +22,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14633",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 03 エンジェルスターズ",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG03_H1.jpg",
     spotify: "1BisYJhb9AdegHtlFZ3fl1",
     applemusic: "1658305128",
@@ -31,7 +31,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14634",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 04 プリンセススターズ",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG04_H1.jpg",
     spotify: "6k4Ee74mBhYsamQQ3iuumR",
     applemusic: "1658305081",
@@ -41,7 +41,7 @@ const MillionTheaterGeneration: Array<Album> = [
     id: "lacm-14635",
     name:
       "THE IDOLM@STER MILLION THE@TER GENERATION 05 夜想令嬢 -GRAC&E NOCTURNE-",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG05_H1.jpg",
     spotify: "4Jpd3nBH6a3FZBcZCigTJh",
     applemusic: "1658304396",
@@ -50,7 +50,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14636",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG06_H1.jpg",
     spotify: "00KZ35DyzALroEalMDTVmh",
     applemusic: "1658304238",
@@ -59,7 +59,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14637",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 07 トゥインクルリズム",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG07_H1.jpg",
     spotify: "463LWhdjR3Q122CTaKU7qx",
     applemusic: "1658303831",
@@ -68,7 +68,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14638",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 08 EScape",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG08_H1.jpg",
     spotify: "6Gy0t8MgPIC4GMZcYX3hIa",
     applemusic: "1658307181",
@@ -77,7 +77,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14639",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 09 4Luxury",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG09_H1.jpg",
     spotify: "4hIm4rGzPU1YbQ88jmwirA",
     applemusic: "1658304346",
@@ -86,7 +86,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14640",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 10 閃光 HANABI団",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG10_H1.jpg",
     spotify: "3yMOG8hVXOI4DRrUixNXBE",
     applemusic: "1658305736",
@@ -95,7 +95,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14641",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG11_H1.jpg",
     spotify: "3aCN43uJ8NWwNbxQuKkcSt",
     applemusic: "1658306238",
@@ -104,7 +104,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14642",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG12_H1.jpg",
     spotify: "18rvG8u4mjj3BV0g3Fwm17",
     applemusic: "1658303353",
@@ -114,7 +114,7 @@ const MillionTheaterGeneration: Array<Album> = [
     id: "lacm-14823",
     name:
       "THE IDOLM@STER MILLION THE@TER GENERATION 13 りるきゃん ~3 little candy~",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG13_H1.jpg",
     spotify: "5qa2bHCRgdrocEpiWWLbxx",
     applemusic: "1658303220",
@@ -123,7 +123,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14824",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 14 Charlotte・Charlotte",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG14_H1.jpg",
     spotify: "3Fbpi07fJnHysSlDTVkurF",
     applemusic: "1658303898",
@@ -132,7 +132,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14825",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG15_H1.jpg",
     spotify: "0aF69rLzzjsSOJzErPvdAQ",
     applemusic: "1658306252",
@@ -141,7 +141,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14826",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 16 ピコピコプラネッツ",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG16_H1.jpg",
     spotify: "1rHmz6BsIpcz7fA463NqUM",
     applemusic: "1658303734",
@@ -150,7 +150,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14827",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 17 STAR ELEMENTS",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG17_H1.jpg",
     spotify: "5hcxMJUIeeZtHQSASinlO4",
     applemusic: "1658306293",
@@ -159,7 +159,7 @@ const MillionTheaterGeneration: Array<Album> = [
   {
     id: "lacm-14828",
     name: "THE IDOLM@STER MILLION THE@TER GENERATION 18 765PRO ALLSTARS",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTG18_H1.jpg",
     spotify: "7iwI8fznwZNrH8DM6mxZQm",
     applemusic: "1658199687",

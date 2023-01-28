@@ -4,7 +4,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15901",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15901_H1.jpg",
     spotify: "0qkGod4E6EYVBEfsOVijcx",
     applemusic: "1658310436",
@@ -13,7 +13,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15902",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 02",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15902_H1.jpg",
     spotify: "2OdIjxcMvWcVlBu9eBgOQh",
     applemusic: "1658316045",
@@ -22,7 +22,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15903",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 03",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15903_H1.jpg",
     spotify: "0x3A6Datf6hMIKYXZN6Kwp",
     applemusic: "1659905708",
@@ -31,7 +31,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15904",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 04",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15904_H1.jpg",
     spotify: "2l4xAEwb0RUwI9waodLEwM",
     applemusic: "1606923234",
@@ -40,7 +40,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15905",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 05",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15905_H1.jpg",
     spotify: "4LtWSOGZrbUE0qS0GVgVPw",
     applemusic: "1613920912",
@@ -49,7 +49,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15906",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 06",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15906_H1.jpg",
     spotify: "7fLAz96U4EZYD0SLr6k7P4",
     applemusic: "1619323878",
@@ -58,7 +58,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15907",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 07",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15907_H1.jpg",
     spotify: "6QfajnzsLWHHvI54DyTvAA",
     applemusic: "1623819381",
@@ -67,7 +67,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15908",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 08",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15908_H1.jpg",
     spotify: "2qhAZ0KaYoKlCw8uAe11SM",
     applemusic: "1637641370",
@@ -76,7 +76,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15909",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15909_H1.jpg",
     spotify: "5BlRVFC9TliHQRWVAmnBjx",
     applemusic: "1646273811",
@@ -85,7 +85,7 @@ const MasterSparkle2: Array<Album> = [
   {
     id: "laca-15910",
     name: "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 10",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACA-15910_H1.jpg",
     spotify: "5333q2eOZHvE6dnPmSMQFa",
     applemusic: "1655615824",

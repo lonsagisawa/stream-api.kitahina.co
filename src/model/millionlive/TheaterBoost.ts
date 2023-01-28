@@ -4,7 +4,7 @@ const TheaterBoost: Array<Album> = [
   {
     id: "lacm-14811",
     name: "THE IDOLM@STER THE@TER BOOST 01",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/TB01_H1.jpg",
     spotify: "7hTVpGOyk8k5tUTnX8kjQa",
     applemusic: "1658204401",
@@ -13,7 +13,7 @@ const TheaterBoost: Array<Album> = [
   {
     id: "lacm-14812",
     name: "THE IDOLM@STER THE@TER BOOST 02",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/TB02_H1.jpg",
     spotify: "7GPvWv5XlxK1g2bbc8jpop",
     applemusic: "1659920571",
@@ -22,7 +22,7 @@ const TheaterBoost: Array<Album> = [
   {
     id: "lacm-14813",
     name: "THE IDOLM@STER THE@TER BOOST 03",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/TB03_H1.jpg",
     spotify: "03DXJlSB7xmXBOMcvjcPJQ",
     applemusic: "1658215733",

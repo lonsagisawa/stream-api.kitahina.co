@@ -4,7 +4,7 @@ const Other: Array<Album> = [
   {
     id: "gessan",
     name: "君との明日を願うから",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://m.media-amazon.com/images/I/51GTFtVTLuL._UX500_FMwebp_QL85_.jpg",
     spotify: "2tVehWE9N04E1thhRXZoAo",
@@ -14,7 +14,7 @@ const Other: Array<Album> = [
   {
     id: "lacm-24025",
     name: "なんどでも笑おう - ミリオンライブ！盤",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACM-24025.jpg",
     spotify: "1F2H6rXX1LzMHHQ4i9oT9w",
     applemusic: "1658341245",
@@ -23,7 +23,7 @@ const Other: Array<Album> = [
   {
     id: "lacm-24004",
     name: "THE IDOLM@STER MILLION LIVE! ZWEIGLANZ アライアンス・スターダスト",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACM-24004.jpg",
     spotify: "0p8qcX8zAMWjT5EZuTNIM4",
     applemusic: "1658270317",
@@ -32,7 +32,7 @@ const Other: Array<Album> = [
   {
     id: "lacm-24159",
     name: "THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACM-24159.jpg",
     spotify: "3CbTpT9Kb9HAi60zdF4OlS",
     applemusic: "1658310586",
@@ -41,7 +41,7 @@ const Other: Array<Album> = [
   {
     id: "lacm-24163",
     name: "VOY@GER - ミリオンライブ！盤",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/LACM-24163_H1.jpg",
     spotify: "5qK9kVY1VwTb2TfuK8oumE",
     applemusic: "1658305728",
@@ -50,7 +50,7 @@ const Other: Array<Album> = [
   {
     id: "clover_days",
     name: "Clover Days",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://m.media-amazon.com/images/I/61wWSIJ30QL._UX500_FMwebp_QL85_.jpg",
     spotify: "1ulBx1CY8eGJ8EtmuLp1EU",

@@ -4,7 +4,7 @@ const LiveTheaterForward: Array<Album> = [
   {
     id: "laca-15611",
     name: "THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0007s_0002_LTF01_H1.png",
     spotify: "5AI4ZKsvVtfMTj0TknJjBE",
@@ -14,7 +14,7 @@ const LiveTheaterForward: Array<Album> = [
   {
     id: "laca-15612",
     name: " THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0007s_0001_LTF02_H1.png",
     spotify: "5M22ADhFwe6Hhe5Xu0JGLi",
@@ -24,7 +24,7 @@ const LiveTheaterForward: Array<Album> = [
   {
     id: "laca-15613",
     name: "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0007s_0000_LTF03_H1.png",
     spotify: "0dqNWSJ8ePef1E2HbmmnNH",
@@ -34,7 +34,7 @@ const LiveTheaterForward: Array<Album> = [
   {
     id: "sun_rhythm_orchestra",
     name: "サンリズム・オーケストラ (Brand New Ver.)",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://m.media-amazon.com/images/I/61j7dm2YGRL._UX500_FMwebp_QL85_.jpg",
     spotify: "0MxRdYIqMGX6KlskKC2tsK",
@@ -44,7 +44,7 @@ const LiveTheaterForward: Array<Album> = [
   {
     id: "brave_harmony",
     name: "brave HARMONY (Brand New Ver.)",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://m.media-amazon.com/images/I/51RB5fSHM7L._UX500_FMwebp_QL85_.jpg",
     spotify: "5tcjU2eXkznY57KibCU0OD",
@@ -54,7 +54,7 @@ const LiveTheaterForward: Array<Album> = [
   {
     id: "starry_melody",
     name: "Starry Melody (Brand New Ver.)",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://m.media-amazon.com/images/I/51PVdwoe2BL._UX500_FMwebp_QL85_.jpg",
     spotify: "4ScFE4kJaTJOtSGGAoEIZd",
@@ -64,7 +64,7 @@ const LiveTheaterForward: Array<Album> = [
   {
     id: "refrain_kiss",
     name: "リフレインキス (Brand New Ver.)",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://m.media-amazon.com/images/I/61DcsnCH3XL._UX500_FMwebp_QL85_.jpg",
     spotify: "5M761lw0DidVCkXofyhDu5",

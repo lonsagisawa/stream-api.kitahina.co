@@ -4,7 +4,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "lacm-14080",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 01 Thank You!",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0012_LTP01_H1.png",
     spotify: "1aJ4lWupXN87GzGNa7jjMd",
@@ -14,7 +14,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15300",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 02",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0011_LTP02_H1.png",
     spotify: "63Ic75x61p1Mtdcyt8roK5",
@@ -24,7 +24,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15313",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0010_LTP03_H1.png",
     spotify: "4PRL12x0kNJeuWfzfBURU6",
@@ -34,7 +34,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15314",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0009_LTP04_H1.png",
     spotify: "6WKC6lYDjiHk38mSeuNOoW",
@@ -44,7 +44,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15315",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0008_LTP05_H1.png",
     spotify: "0RulRBQ4s2J5ejrTEDOjVQ",
@@ -54,7 +54,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15316",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0007_LTP06_H1.png",
     spotify: "30Lzd3PMCzEzF5sE12cbxi",
@@ -64,7 +64,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15317",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 07",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0006_LTP07_H1.png",
     spotify: "5dCQJlbaEZcvVCsm2XGPxe",
@@ -74,7 +74,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15318",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 08",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0005_LTP08_H1.png",
     spotify: "427UU0Qk3SP1eY0g79osQ9",
@@ -84,7 +84,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15319",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0004_LTP09_H1.png",
     spotify: "1aORtrNtFix8006Ft2iydu",
@@ -94,7 +94,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15320",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0003_LTP10_H1.png",
     spotify: "5Y49hqNoAuT0V33DeyHUnj",
@@ -104,7 +104,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15321",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 11",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0002_LTP11_H1.png",
     spotify: "7GUi4PSStlWpuhHwwCl2jP",
@@ -114,7 +114,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15322",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 12",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0001_LTP12_H1.png",
     spotify: "3BIw8RX5529tavuYERGlx4",
@@ -124,7 +124,7 @@ const LiveTheaterPerformance: Array<Album> = [
   {
     id: "laca-15323",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 13",
-    series: "millionlive",
+    brand: "millionlive",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0000_LTP13_H1.png",
     spotify: "5CvkmLTabznfl6lVW9f9ZU",

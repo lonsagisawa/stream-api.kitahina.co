@@ -4,7 +4,7 @@ const FiveStars: Array<Album> = [
   {
     id: "moiw2014",
     name: "IDOL POWER RAINBOW",
-    series: "fivestars",
+    brand: "fivestars",
     cover: "https://www.lantis.jp/imas/img/TC01_H1.jpg",
     spotify: "6SScLq8G2nr8wVd3tI8B0N",
     applemusic: "1665511914",
@@ -13,7 +13,7 @@ const FiveStars: Array<Album> = [
   {
     id: "moiw2015",
     name: "アイ MUST GO!",
-    series: "fivestars",
+    brand: "fivestars",
     cover: "https://www.lantis.jp/imas/img/TC02_H1.jpg",
     spotify: "4X3xDnRuKxje0wHFYkreCo",
     applemusic: "1665511829",
@@ -22,7 +22,7 @@ const FiveStars: Array<Album> = [
   {
     id: "moiw2023",
     name: "CRYST@LOUD",
-    series: "fivestars",
+    brand: "fivestars",
     cover: "https://www.lantis.jp/imas/img/TC03_H1.jpg",
     spotify: "0RiOQYiFCzGqBwqPIC1SXa",
     applemusic: "1664668294",

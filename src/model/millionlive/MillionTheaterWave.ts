@@ -4,7 +4,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14891",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW01_H1.jpg",
     spotify: "3XMVnavGGMGhtKL5kX9wSq",
     applemusic: "1658222367",
@@ -13,7 +13,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14892",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono-Lexica",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW02_H1.jpg",
     spotify: "0n1EdkiGkULdbdAbcj3FI3",
     applemusic: "1658222656",
@@ -22,7 +22,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14893",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 03 Xs",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW03_H1.jpg",
     spotify: "6bRm5kHYUxrQIsLhVUn5oX",
     applemusic: "1658222337",
@@ -31,7 +31,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14894",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry'n Cherry",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW04_H1.jpg",
     spotify: "5XJU5PcncxC8kuLr0uZ35w",
     applemusic: "1658221508",
@@ -40,7 +40,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14895",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 05 ARCANA",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW05_H1.jpg",
     spotify: "6dPf4D4ahsUrXfXacWhKNu",
     applemusic: "1660061660",
@@ -49,7 +49,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14896",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 06 花咲夜",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW06_H1.jpg",
     spotify: "4to4QXWpdanY8GmKkcKX8H",
     applemusic: "1658224005",
@@ -58,7 +58,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14897",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 07 Jus-2-Mint",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW07_H1.jpg",
     spotify: "7mihuPl9XKNe5EbrWmf9Gs",
     applemusic: "1658224353",
@@ -67,7 +67,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14898",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 08 miraclesonic★expassion",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW08_H1.jpg",
     spotify: "1dOIaP2WYutQKZ8fWFaXi8",
     applemusic: "1658224826",
@@ -76,7 +76,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14899",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 09 Fleuranges",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW09_H1.jpg",
     spotify: "5dRsYjOUip5UV88wKPAuGJ",
     applemusic: "1658261696",
@@ -85,7 +85,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14900",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW10_H1.jpg",
     spotify: "0i8lhN2S9zPhErVX2LXhc0",
     applemusic: "1658262664",
@@ -94,7 +94,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14901",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 11 オペラセリア・煌輝座",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW11_H1.jpg",
     spotify: "2SSr71xZDj52IgJ3zacjfx",
     applemusic: "1658265137",
@@ -103,7 +103,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14902",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 12 ダイヤモンドダイバー◇",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW12_H1.jpg",
     spotify: "6raoTree2kzuHvxAfcjkNt",
     applemusic: "1658269690",
@@ -112,7 +112,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14903",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW13_H1.jpg",
     spotify: "5ug6ELg787KuXMs1Z5gthX",
     applemusic: "1658270176",
@@ -121,7 +121,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14904",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 14 TRICK&TREAT",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW14_H1.jpg",
     spotify: "54oac3e7RYyha5LkSKABsA",
     applemusic: "1658270027",
@@ -130,7 +130,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-14905",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW15_H1.jpg",
     spotify: "2EQQNrat2zwQMfwD67OycQ",
     applemusic: "1658341292",
@@ -139,7 +139,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-24106",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 16 ≡君彩≡",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW16_H1.jpg",
     spotify: "5HGLbVSNqj9HQHGGYe39No",
     applemusic: "1658261376",
@@ -148,7 +148,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-24107",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 17 ARMooo",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW17_H1.jpg",
     spotify: "6SYVfAsmO3ctaLBZbMlEhs",
     applemusic: "1658262860",
@@ -157,7 +157,7 @@ const MillionTheaterWave: Array<Album> = [
   {
     id: "lacm-24108",
     name: "THE IDOLM@STER MILLION THE@TER WAVE 18 ストロベリーポップムーン",
-    series: "millionlive",
+    brand: "millionlive",
     cover: "https://www.lantis.jp/imas/img/MTW18_H1.jpg",
     spotify: "2h7qFCIuwpnamJlTOgS7CU",
     applemusic: "1658341924",
