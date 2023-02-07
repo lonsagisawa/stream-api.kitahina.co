@@ -4,10 +4,7 @@ export type Album = {
   brand: string;
   series?: string;
   cover: string;
-  spotify?: string;
-  applemusic?: string;
-  amazon?: string;
-  platform?: {
+  platform: {
     spotify?: string;
     applemusic?: string;
     amazon?: string;
