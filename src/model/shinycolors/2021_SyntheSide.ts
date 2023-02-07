@@ -5,6 +5,7 @@ const SyntheSide: Array<Album> = [
   {
     id: "lacm-24244",
     name: "THE IDOLM@STER SHINY COLORS Synthe-Side 01",
+    series: "Synthe-Side",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24244.jpg",
@@ -20,6 +21,7 @@ const SyntheSide: Array<Album> = [
   {
     id: "lacm-24245",
     name: "THE IDOLM@STER SHINY COLORS Synthe-Side 02",
+    series: "Synthe-Side",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24245.jpg",
@@ -35,6 +37,7 @@ const SyntheSide: Array<Album> = [
   {
     id: "lacm-24246",
     name: "THE IDOLM@STER SHINY COLORS Synthe-Side 03",
+    series: "Synthe-Side",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2022/01/LACM-24246.jpg",

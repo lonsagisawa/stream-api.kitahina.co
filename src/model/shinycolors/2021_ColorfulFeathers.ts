@@ -5,6 +5,7 @@ const ColorfulFeathers: Array<Album> = [
   {
     id: "laca-15863",
     name: "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Sol-",
+    series: "COLORFUL FE@THERS",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACA-15863.jpg",

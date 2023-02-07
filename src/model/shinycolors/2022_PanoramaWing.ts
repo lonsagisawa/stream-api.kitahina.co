@@ -5,6 +5,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24251",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 01",
+    series: "P@NORAMA WING",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24251.jpeg",
@@ -21,6 +22,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24252",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 02",
+    series: "P@NORAMA WING",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24252.jpg",
@@ -37,6 +39,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24253",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 03",
+    series: "P@NORAMA WING",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24253.jpg",
@@ -53,6 +56,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24254",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 04",
+    series: "P@NORAMA WING",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24254.jpg",
@@ -69,6 +73,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24255",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 05",
+    series: "P@NORAMA WING",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24255.jpg",
@@ -85,6 +90,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24256",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 06",
+    series: "P@NORAMA WING",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24256.jpg",
@@ -101,6 +107,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24257",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 07",
+    series: "P@NORAMA WING",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24257.jpg",
@@ -117,6 +124,7 @@ const PanoramaWing: Array<Album> = [
   {
     id: "lacm-24258",
     name: "THE IDOLM@STER SHINY COLORS PANOR@MA WING 08",
+    series: "P@NORAMA WING",
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24258.jpg",
