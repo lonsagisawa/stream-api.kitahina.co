@@ -4,11 +4,12 @@
     id: そのアルバムがCDとして発売された際の型番(存在しない場合は適切な名称)
     name: そのアルバムの名称
     brand: そのアルバムが属するブランド
-      765as - 765PRO ALLSTARS, ぷちます！
+      allstars - 765PRO ALLSTARS, ぷちます！
       cinderellagirls - シンデレラガールズ
       millionlive - ミリオンライブ！
       sidem - SideM
       shinycolors - シャイニーカラーズ
+      fivestars - FIVE STARS(MoIW関連の楽曲など、5ブランド合同名義のアルバム)
     series: そのアルバムが属するシリーズ
       例: LIVE THE@TER PERFORMANCE, P@NORAMA WING
       そのアルバムが特定のシリーズに沿ってリリースされたものでない場合、
