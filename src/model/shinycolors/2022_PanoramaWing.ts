@@ -8,9 +8,15 @@ const PanoramaWing: Array<Album> = [
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24251.jpeg",
-    spotify: "2nINsRjHFbz5oWMG4zJo2i",
-    applemusic: "1621031121",
-    amazon: "B09YV3MQ5Z",
+    platform: {
+      spotify: "2nINsRjHFbz5oWMG4zJo2i",
+      applemusic: "1621031121",
+      amazon: "B09YV3MQ5Z",
+    },
+    songs: [
+      "虹の行方",
+      "Daybreak Age",
+    ],
   },
   {
     id: "lacm-24252",
@@ -18,9 +24,15 @@ const PanoramaWing: Array<Album> = [
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24252.jpg",
-    spotify: "4CSSUlAhyx3mbZmwRLSMQj",
-    applemusic: "1626962805",
-    amazon: "B0B2TF361Y",
+    platform: {
+      spotify: "4CSSUlAhyx3mbZmwRLSMQj",
+      applemusic: "1626962805",
+      amazon: "B0B2TF361Y",
+    },
+    songs: [
+      "FELICE",
+      "イルミネイトコンサート",
+    ],
   },
   {
     id: "lacm-24253",
@@ -28,9 +40,15 @@ const PanoramaWing: Array<Album> = [
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24253.jpg",
-    spotify: "1amhjTEry84P4TaaXupGGl",
-    applemusic: "1634024880",
-    amazon: "B0B69HRVYY",
+    platform: {
+      spotify: "1amhjTEry84P4TaaXupGGl",
+      applemusic: "1634024880",
+      amazon: "B0B69HRVYY",
+    },
+    songs: [
+      "浮動性イノセンス",
+      "愚者の独白",
+    ],
   },
   {
     id: "lacm-24254",
@@ -38,9 +56,15 @@ const PanoramaWing: Array<Album> = [
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24254.jpg",
-    spotify: "5vFeizkVQA7PqDIuSr4cH6",
-    applemusic: "1637705026",
-    amazon: "B0B8G4HXFM",
+    platform: {
+      spotify: "5vFeizkVQA7PqDIuSr4cH6",
+      applemusic: "1637705026",
+      amazon: "B0B8G4HXFM",
+    },
+    songs: [
+      "一閃は君が導く",
+      "キャットスクワッド",
+    ],
   },
   {
     id: "lacm-24255",
@@ -48,9 +72,15 @@ const PanoramaWing: Array<Album> = [
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24255.jpg",
-    spotify: "3UigZQb1RxyalZQMokQdNV",
-    applemusic: "1643095930",
-    amazon: "B0BCX6HXWS",
+    platform: {
+      spotify: "3UigZQb1RxyalZQMokQdNV",
+      applemusic: "1643095930",
+      amazon: "B0BCX6HXWS",
+    },
+    songs: [
+      "VERY BERRY LOVE",
+      "Give me some more...",
+    ],
   },
   {
     id: "lacm-24256",
@@ -58,9 +88,15 @@ const PanoramaWing: Array<Album> = [
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24256.jpg",
-    spotify: "40jerhrEfhhYjWUh9AA4EU",
-    applemusic: "1642475209",
-    amazon: "B0BCG444FD",
+    platform: {
+      spotify: "40jerhrEfhhYjWUh9AA4EU",
+      applemusic: "1642475209",
+      amazon: "B0BCG444FD",
+    },
+    songs: [
+      "Tracing Defender",
+      "Overdrive Emotion",
+    ],
   },
   {
     id: "lacm-24257",
@@ -68,9 +104,15 @@ const PanoramaWing: Array<Album> = [
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24257.jpg",
-    spotify: "4WwTB9xJxqOqAS6kmMyqtz",
-    applemusic: "1655633924",
-    amazon: "B0BNF9S2ZQ",
+    platform: {
+      spotify: "4WwTB9xJxqOqAS6kmMyqtz",
+      applemusic: "1655633924",
+      amazon: "B0BNF9S2ZQ",
+    },
+    songs: [
+      "Catch the Breeze",
+      "アスファルトを鳴らして",
+    ],
   },
   {
     id: "lacm-24258",
@@ -78,9 +120,15 @@ const PanoramaWing: Array<Album> = [
     brand: "shinycolors",
     cover:
       "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2021/12/LACM-24258.jpg",
-    spotify: "4fifEAU2mSmSaEXKccsjRF",
-    applemusic: "1655633131",
-    amazon: "B0BNDQJCTZ",
+    platform: {
+      spotify: "4fifEAU2mSmSaEXKccsjRF",
+      applemusic: "1655633131",
+      amazon: "B0BNDQJCTZ",
+    },
+    songs: [
+      "Fashionable",
+      "Bouncy Girl",
+    ],
   },
 ];
 
