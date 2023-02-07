@@ -7,4 +7,10 @@ export type Album = {
   spotify?: string;
   applemusic?: string;
   amazon?: string;
+  platform?: {
+    spotify?: string;
+    applemusic?: string;
+    amazon?: string;
+  };
+  songs?: Array<string>;
 };
