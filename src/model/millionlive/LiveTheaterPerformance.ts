@@ -5,6 +5,7 @@ const LiveTheaterPerformance: Array<Album> = [
     id: "lacm-14080",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 01 Thank You!",
     brand: "millionlive",
+    series: "LIVE THE@TER PERFORMANCE",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0012_LTP01_H1.png",
     platform: {
@@ -17,6 +18,7 @@ const LiveTheaterPerformance: Array<Album> = [
     id: "laca-15300",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 02",
     brand: "millionlive",
+    series: "LIVE THE@TER PERFORMANCE",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0011_LTP02_H1.png",
     platform: {
@@ -29,6 +31,7 @@ const LiveTheaterPerformance: Array<Album> = [
     id: "laca-15313",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
     brand: "millionlive",
+    series: "LIVE THE@TER PERFORMANCE",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0010_LTP03_H1.png",
     platform: {
@@ -41,6 +44,7 @@ const LiveTheaterPerformance: Array<Album> = [
     id: "laca-15314",
     name: "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
     brand: "millionlive",
+    series: "LIVE THE@TER PERFORMANCE",
     cover:
       "https://www.lantis.jp/imas/img/release_imgs__0011s_0009_LTP04_H1.png",
     platform: {
