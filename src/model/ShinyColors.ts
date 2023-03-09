@@ -7,6 +7,7 @@ import ColorfulFeathers from "./shinycolors/2021_ColorfulFeathers.ts";
 import SyntheSide from "./shinycolors/2021_SyntheSide.ts";
 import OffVocalCollection from "./shinycolors/2022_OffVocalCollection.ts";
 import PanoramaWing from "./shinycolors/2022_PanoramaWing.ts";
+import WingCollection from "./shinycolors/2023_WingCollection.ts";
 import Other from "./shinycolors/Other.ts";
 
 const Albums: Array<Album> = [];
@@ -20,6 +21,7 @@ const ShinyColors: Array<Album> = Albums.concat(
   SyntheSide,
   OffVocalCollection,
   PanoramaWing,
+  WingCollection,
   Other,
 );
 
