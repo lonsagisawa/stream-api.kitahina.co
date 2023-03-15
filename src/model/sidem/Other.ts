@@ -163,7 +163,7 @@ const Other: Array<Album> = [
   // SideM盤
   {
     id: "lacm-24026",
-    name: "なんどでも笑おう(SideM盤)",
+    name: "なんどでも笑おう - SideM盤",
     brand: "sidem",
     cover: "https://www.lantis.jp/sidem/releaseinfo/img/LACM-24026.jpg",
     platform: {
@@ -177,7 +177,7 @@ const Other: Array<Album> = [
   },
   {
     id: "lacm-24164",
-    name: "VOY@GER(SideM盤)",
+    name: "VOY@GER - SideM盤",
     brand: "sidem",
     cover: "https://www.lantis.jp/sidem/releaseinfo/img/LACM-24164.jpg",
     platform: {
