@@ -1,13 +1,13 @@
-import { serve } from "https://deno.land/std@0.173.0/http/server.ts";
-import { Hono } from "https://deno.land/x/hono@v2.7.3/mod.ts";
+import { serve } from "https://deno.land/std@0.180.0/http/server.ts";
+import { Hono } from "https://deno.land/x/hono@v3.1.0/mod.ts";
 import {
   getAlbum,
   getAllAlbums,
   getAllStarsAlbums,
   getFiveStarsAlbum,
   getMillionLiveAlbums,
-  getSideMAlbums,
   getShinyColorsAlbums,
+  getSideMAlbums,
 } from "./src/controllers/api.ts";
 
 const app = new Hono();
