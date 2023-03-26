@@ -85,6 +85,24 @@ const MillionTheaterSeason: Array<Album> = [
       amazon: "B0B9HK1VX5",
     },
   },
+  {
+    id: "laca-25038",
+    name: "THE IDOLM@STER MILLION THE@TER SEASON FINAL",
+    brand: "millionlive",
+    series: "MILLION THE@TER SEASON",
+    cover: "https://www.lantis.jp/imas/img/MTS_final.png",
+    platform: {
+      spotify: "0AqCcAkzDG2TrgSIWY9WgH",
+      applemusic: "1673435708",
+      amazon: "B0BWDT49PY",
+    },
+    songs: [
+      "サウンド・オブ・ビギニング",
+      "Supersonic Booster!",
+      "オレンジ・エピソード",
+      "Like twinkling STARS",
+    ],
+  },
 ];
 
 export default MillionTheaterSeason;
