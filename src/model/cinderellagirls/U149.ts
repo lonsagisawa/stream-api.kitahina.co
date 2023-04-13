@@ -14,6 +14,9 @@ const U149: Array<Album> = [
       applemusic: "1682153879",
       amazon: "B0C2BW842R",
     },
+    songs: [
+      "Shine In The Sky☆",
+    ],
   },
 ];
 
