@@ -4,6 +4,7 @@ import {
   getAlbum,
   getAllAlbums,
   getAllStarsAlbums,
+  getCinderellaGirlsAlbums,
   getFiveStarsAlbum,
   getMillionLiveAlbums,
   getShinyColorsAlbums,
@@ -20,6 +21,9 @@ app.get("/album", (c) => {
 });
 app.get("/album/allstars", (c) => {
   return c.json(getAllStarsAlbums());
+});
+app.get("/album/cinderellagirls", (c) => {
+  return c.json(getCinderellaGirlsAlbums());
 });
 app.get("/album/millionlive", (c) => {
   return c.json(getMillionLiveAlbums());
