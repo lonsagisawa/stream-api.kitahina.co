@@ -13,6 +13,7 @@ import MillionTheaterVariety from "./millionlive/MillionTheaterVariety.ts";
 import TheaterActivities from "./millionlive/TheaterActivities.ts";
 import TheaterBoost from "./millionlive/TheaterBoost.ts";
 import TheaterChallenge from "./millionlive/TheaterChallenge.ts";
+import BestAlbum from "./millionlive/BestAlbum.ts";
 import Other from "./millionlive/Other.ts";
 
 const Albums: Array<Album> = [];
@@ -32,6 +33,7 @@ const MillionLive: Array<Album> = Albums.concat(
   TheaterActivities,
   TheaterBoost,
   TheaterChallenge,
+  BestAlbum,
   Other,
 );
 
