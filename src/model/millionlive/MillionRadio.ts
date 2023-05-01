@@ -13,6 +13,10 @@ const MillionRadio: Array<Album> = [
       applemusic: "1658393012",
       amazon: "B0BP8L3H1Z",
     },
+    songs: [
+      "U・N・M・E・I ライブ",
+      "Thank You! -MR remix",
+    ],
   },
   {
     id: "lacm-14506",
@@ -26,6 +30,10 @@ const MillionRadio: Array<Album> = [
       applemusic: "1658286333",
       amazon: "B0BP7SC3PR",
     },
+    songs: [
+      "ターンオンタイム！",
+      "Dreaming! -MR remix-",
+    ],
   },
   {
     id: "lacm-14961",
@@ -38,6 +46,26 @@ const MillionRadio: Array<Album> = [
       applemusic: "1658220574",
       amazon: "B0BP6H76CJ",
     },
+    songs: [
+      "ENDLESS TOUR",
+      "Flyers!!! -MR remix-",
+    ],
+  },
+  {
+    id: "lacm-24349",
+    name: "SECOND LIVINGROOM",
+    brand: "millionlive",
+    series: "MILLION RADIO!",
+    cover: "https://www.lantis.jp/imas/img/LACM-24349.png",
+    platform: {
+      spotify: "5mbP289zCYSPP6m6lLjoZB",
+      applemusic: "1678120944",
+      amazon: "B0BZT4Q8RQ",
+    },
+    songs: [
+      "SECOND LIVINGROOM",
+      "U・N・M・E・I ライブ -MR remix-",
+    ],
   },
 ];
 
