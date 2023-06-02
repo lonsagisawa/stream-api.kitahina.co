@@ -17,6 +17,21 @@ const Other: Array<Album> = [
     ],
   },
   {
+    id: "lzc-2403",
+    name: "Shiny Stories",
+    brand: "shinycolors",
+    cover:
+      "https://linkstorage.linkfire.com/medialinks/images/3faeb5fc-cda4-4682-a081-6e3c2d9743ce/artwork-440x440.jpg",
+    platform: {
+      spotify: "2H9tTDOQcgTr7I9uIozAk6",
+      applemusic: "1683525811",
+      amazon: "B0C1P48LHN",
+    },
+    songs: [
+      "Shiny Stories",
+    ],
+  },
+  {
     id: "lacm-24027",
     name: "なんどでも笑おう - シャイニーカラーズ盤",
     brand: "shinycolors",
