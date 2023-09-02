@@ -32,6 +32,21 @@ const Other: Array<Album> = [
     ],
   },
   {
+    id: "lacm-24406",
+    name: "THE IDOLM@STER SHINY COLORS Shiny Stories",
+    brand: "shinycolors",
+    cover:
+      "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2023/07/LACM-24406.jpg",
+    platform: {
+      spotify: "2CSghYubmNdg7sJfs4uqv6",
+      applemusic: "1696124919",
+      amazon: "B0CB8T8YCG",
+    },
+    songs: [
+      "Shiny Stories",
+    ],
+  },
+  {
     id: "lacm-24027",
     name: "なんどでも笑おう - シャイニーカラーズ盤",
     brand: "shinycolors",
