@@ -69,6 +69,17 @@ const Other: Array<Album> = [
       amazon: "B0BP8BHV7F",
     },
   },
+  {
+    id: "laca-25057",
+    name: "THE IDOLM@STER MILLION LIVE!「グッドサイン」",
+    brand: "millionlive",
+    cover: "https://www.lantis.jp/imas/img/LACA-25057.png",
+    platform: {
+      spotify: "1BdIXtzGm09jkFXhNixBBu",
+      applemusic: "1697297716",
+      amazon: "B0CBLSRBJN",
+    },
+  },
 ];
 
 export default Other;
