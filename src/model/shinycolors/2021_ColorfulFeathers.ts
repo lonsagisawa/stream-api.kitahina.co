@@ -73,6 +73,23 @@ const ColorfulFeathers: Array<Album> = [
       "SOLAR WAY",
     ],
   },
+  {
+    id: "lacm-24395",
+    name: "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -SHHis-",
+    series: "COLORFUL FE@THERS",
+    brand: "shinycolors",
+    cover:
+      "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2023/07/LACM-24395.jpg",
+    platform: {
+      spotify: "3ZOUIvN9zlekCKqEPBO5nA",
+      applemusic: "1696128291",
+      amazon: "B0CB8RSLZZ",
+    },
+    songs: [
+      "フェアリー・ガール",
+      "Look up to the sky",
+    ],
+  },
 ];
 
 export default ColorfulFeathers;
