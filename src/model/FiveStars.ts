@@ -34,6 +34,18 @@ const FiveStars: Array<Album> = [
       amazon: "B0BS9MF3WD",
     },
   },
+  {
+    id: "poplinks_tune",
+    name: "POPLINKS TUNE!!!!!",
+    brand: "fivestars",
+    cover:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/43/57/c9/4357c94a-e6d5-4528-d7f8-1883bd791f1e/PA00120233_0_167990_jacket.jpg/592x592bb.webp",
+    platform: {
+      spotify: "6vATkxwDIWDVTj57Ulzmn7",
+      applemusic: "1698435362",
+      amazon: "B0CCCPYF29",
+    },
+  },
 ];
 
 export default FiveStars;
