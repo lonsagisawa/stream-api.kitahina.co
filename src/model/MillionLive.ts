@@ -11,6 +11,7 @@ import MasterSparkle2 from "./millionlive/MasterSparkle2.ts";
 import MillionTheaterGeneration from "./millionlive/MillionTheaterGeneration.ts";
 import MillionTheaterSeason from "./millionlive/MillionTheaterSeason.ts";
 import MillionTheaterVariety from "./millionlive/MillionTheaterVariety.ts";
+import AnimationTheater from "./millionlive/AnimationTheater.ts";
 import TheaterActivities from "./millionlive/TheaterActivities.ts";
 import TheaterBoost from "./millionlive/TheaterBoost.ts";
 import TheaterChallenge from "./millionlive/TheaterChallenge.ts";
@@ -32,6 +33,7 @@ const MillionLive: Array<Album> = Albums.concat(
   MillionTheaterVariety,
   MasterSparkle,
   MasterSparkle2,
+  AnimationTheater,
   TheaterActivities,
   TheaterBoost,
   TheaterChallenge,
