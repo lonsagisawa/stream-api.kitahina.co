@@ -41,7 +41,13 @@
 export type Album = {
   id: string;
   name: string;
-  brand: string;
+  brand:
+    | "allstars"
+    | "cinderellagirls"
+    | "millionlive"
+    | "sidem"
+    | "shinycolors"
+    | "fivestars";
   series?: string;
   cover: string;
   platform: {
