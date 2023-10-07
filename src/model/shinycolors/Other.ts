@@ -76,6 +76,21 @@ const Other: Array<Album> = [
       "VOY@GER",
     ],
   },
+  {
+    id: "lzc-2489",
+    name: "無自覚アプリオリ",
+    brand: "shinycolors",
+    cover:
+      "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2023/09/LZC-2489.jpg",
+    platform: {
+      spotify: "0k5KJl1a8QYF7rEAwwKSbi",
+      applemusic: "1705391021",
+      amazon: "B0CH345HQ4",
+    },
+    songs: [
+      "無自覚アプリオリ",
+    ],
+  },
 ];
 
 export default Other;

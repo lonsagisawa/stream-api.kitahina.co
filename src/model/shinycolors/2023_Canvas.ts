@@ -35,12 +35,12 @@ const Canvas: Array<Album> = [
     songs: [
       "とある英雄たちの物語",
       "Unsung Heroes",
-      "有彩色ユリイカ"
+      "有彩色ユリイカ",
     ],
   },
   {
     id: "lacm-24363",
-    name: 'THE IDOLM@STER SHINY COLORS “CANVAS” 03',
+    name: "THE IDOLM@STER SHINY COLORS “CANVAS” 03",
     series: '"CANVAS"',
     brand: "shinycolors",
     cover:
@@ -53,12 +53,12 @@ const Canvas: Array<Album> = [
     songs: [
       "ハナサカサイサイ",
       "全力アンサー",
-      "ひめくりモザイク"
+      "ひめくりモザイク",
     ],
   },
   {
     id: "lacm-24364",
-    name: 'THE IDOLM@STER SHINY COLORS “CANVAS” 04',
+    name: "THE IDOLM@STER SHINY COLORS “CANVAS” 04",
     series: '"CANVAS"',
     brand: "shinycolors",
     cover:
@@ -71,7 +71,25 @@ const Canvas: Array<Album> = [
     songs: [
       "メッセージ",
       "Love Letter",
-      "グラデーション"
+      "グラデーション",
+    ],
+  },
+  {
+    id: "lacm-24365",
+    name: "THE IDOLM@STER SHINY COLORS “CANVAS” 05",
+    series: '"CANVAS"',
+    brand: "shinycolors",
+    cover:
+      "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2023/07/LACM-24365.jpg",
+    platform: {
+      spotify: "1V2XKud3WLAvGy1NlukjPw",
+      applemusic: "1699417403",
+      amazon: "B0CCW5XFYD",
+    },
+    songs: [
+      "Imitation Ghost",
+      "BURN BURN",
+      "Start up Stand up",
     ],
   },
 ];
