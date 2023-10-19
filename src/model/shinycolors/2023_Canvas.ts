@@ -40,7 +40,7 @@ const Canvas: Array<Album> = [
   },
   {
     id: "lacm-24363",
-    name: "THE IDOLM@STER SHINY COLORS “CANVAS” 03",
+    name: 'THE IDOLM@STER SHINY COLORS "CANVAS" 03',
     series: '"CANVAS"',
     brand: "shinycolors",
     cover:
@@ -58,7 +58,7 @@ const Canvas: Array<Album> = [
   },
   {
     id: "lacm-24364",
-    name: "THE IDOLM@STER SHINY COLORS “CANVAS” 04",
+    name: 'THE IDOLM@STER SHINY COLORS "CANVAS" 04',
     series: '"CANVAS"',
     brand: "shinycolors",
     cover:
@@ -76,7 +76,7 @@ const Canvas: Array<Album> = [
   },
   {
     id: "lacm-24365",
-    name: "THE IDOLM@STER SHINY COLORS “CANVAS” 05",
+    name: 'THE IDOLM@STER SHINY COLORS "CANVAS" 05',
     series: '"CANVAS"',
     brand: "shinycolors",
     cover:
@@ -90,6 +90,24 @@ const Canvas: Array<Album> = [
       "Imitation Ghost",
       "BURN BURN",
       "Start up Stand up",
+    ],
+  },
+  {
+    id: "lacm-24366",
+    name: 'THE IDOLM@STER SHINY COLORS "CANVAS" 06',
+    series: '"CANVAS"',
+    brand: "shinycolors",
+    cover:
+      "https://shinycolors.lantis.jp/X9pa5jNY/wp-content/uploads/2023/08/LACM-24366.jpg",
+    platform: {
+      spotify: "3EarCSn4p3bjZfE5dEvXFd",
+      applemusic: "1707372645",
+      amazon: "B0CJ382CTN",
+    },
+    songs: [
+      "Reflection",
+      "夢が夢じゃなくなるその日まで",
+      "青とオレンジ",
     ],
   },
 ];
