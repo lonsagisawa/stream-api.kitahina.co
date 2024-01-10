@@ -37,6 +37,18 @@ const MillionTheaterVariety: Array<Album> = [
       amazon: "B0C5JQ7PBM",
     },
   },
+  {
+    id: "lacm-24435",
+    name: "THE IDOLM@STER MILLION THE@TER VARIETY 04",
+    brand: "millionlive",
+    series: "MILLION THE@TER VARIETY",
+    cover: "https://www.lantis.jp/imas/img/LACM-24435.jpg",
+    platform: {
+      spotify: "4Tu500bP5d6noDH5LLKPYz",
+      applemusic: "1713576576",
+      amazon: "B0CLS5W1NT",
+    },
+  },
 ];
 
 export default MillionTheaterVariety;
