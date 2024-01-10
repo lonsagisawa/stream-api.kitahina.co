@@ -9,11 +9,12 @@ import OffVocalCollection from "./shinycolors/2022_OffVocalCollection.ts";
 import PanoramaWing from "./shinycolors/2022_PanoramaWing.ts";
 import WingCollection from "./shinycolors/2023_WingCollection.ts";
 import Canvas from "./shinycolors/2023_Canvas.ts";
+import SongForPrism from "./shinycolors/2023_SongForPrism.ts";
 import Other from "./shinycolors/Other.ts";
 
-const Albums: Array<Album> = [];
+const Albums: Album[] = [];
 
-const ShinyColors: Array<Album> = Albums.concat(
+const ShinyColors: Album[] = Albums.concat(
   BrilliantWing,
   FragmentWing,
   GradateWing,
@@ -24,6 +25,7 @@ const ShinyColors: Array<Album> = Albums.concat(
   PanoramaWing,
   WingCollection,
   Canvas,
+  SongForPrism,
   Other,
 );
 
